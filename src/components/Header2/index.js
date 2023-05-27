@@ -19,7 +19,7 @@ export default function Header() {
             <Grid container justify="center">
                 <Grid item xs={10}>
                     <Box display="flex" justifyContent="space-between">
-                        <Typography variant="h4">Internships here</Typography>
+                        <Typography variant="h4">Internships are here</Typography>
                         <NewModal2 />
                     </Box>
                 </Grid>
