@@ -29,7 +29,7 @@ export default props=> {
         
             <Select disableUnderline variant="filled" defaultValue="Remote">
                 <MenuItem value="Remote">Remote</MenuItem>
-                <MenuItem value="In-office">In-office</MenuItem>
+                <MenuItem value="In-office">In-office jobs</MenuItem>
                 </Select>
                 </div>
                 <div className='c'>
